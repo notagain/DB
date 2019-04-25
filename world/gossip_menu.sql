@@ -5970,3 +5970,5 @@ INSERT INTO `gossip_menu` VALUES (1043, 1641, 0);
 INSERT INTO `gossip_menu` VALUES (3129, 4114, 0);
 INSERT INTO `gossip_menu` VALUES (6424, 7717, 0);
 INSERT INTO `gossip_menu` VALUES (6425, 7718, 0);
+INSERT INTO `gossip_menu` VALUES (6688, 8060, 0);
+INSERT INTO `gossip_menu` VALUES (6624, 7875, 0);

@@ -560,7 +560,7 @@ INSERT INTO `creature_model_info` VALUES (869, 0, 0, 2, 0);
 INSERT INTO `creature_model_info` VALUES (870, 0.347, 1.5, 2, 0);
 INSERT INTO `creature_model_info` VALUES (876, 0.778, 1, 1, 0);
 INSERT INTO `creature_model_info` VALUES (883, 0, 0, 1, 0);
-INSERT INTO `creature_model_info` VALUES (892, 0.315, 1.35, 0, 0);
+INSERT INTO `creature_model_info` VALUES (892, 0.315, 1.35, 2, 0);
 INSERT INTO `creature_model_info` VALUES (897, 1, 1.25, 2, 0);
 INSERT INTO `creature_model_info` VALUES (900, 0, 0, 1, 0);
 INSERT INTO `creature_model_info` VALUES (901, 0.2, 1, 2, 0);

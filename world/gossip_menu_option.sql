@@ -4292,3 +4292,5 @@ INSERT INTO `gossip_menu_option` VALUES (6644, 0, 0, 'Teleport me to the lair of
 INSERT INTO `gossip_menu_option` VALUES (6046, 0, 0, 'You have lost your mind, Nefarius. You speak in riddles.', 9904, 1, 1, 6045, 0, 0, 0, NULL, 0, 0);
 INSERT INTO `gossip_menu_option` VALUES (8984, 0, 0, 'Take me to Lieutenant Icehammer, Zorek!', 31741, 1, 1, 0, 0, 0, 0, NULL, 0, 0);
 INSERT INTO `gossip_menu_option` VALUES (6381, 0, 1, 'Let us barter, Rin\'wosho. Show me what goods are available!', 10441, 3, 128, 0, 0, 0, 0, '', 0, 0);
+INSERT INTO `gossip_menu_option` VALUES (6687, 0, 0, 'Reporting for duty, sir.', 11274, 1, 1, 6688, 0, 0, 0, '', 0, 0);
+INSERT INTO `gossip_menu_option` VALUES (6623, 0, 0, 'I\'m here to aid the Captain.', 11006, 1, 1, 6624, 0, 0, 0, '', 0, 0);

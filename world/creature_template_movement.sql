@@ -4305,3 +4305,7 @@ INSERT INTO `creature_template_movement` VALUES (37439, 0, 0, 1, 0, 0, 0);
 INSERT INTO `creature_template_movement` VALUES (37440, 0, 0, 1, 0, 0, 0);
 INSERT INTO `creature_template_movement` VALUES (37441, 0, 0, 1, 0, 0, 0);
 INSERT INTO `creature_template_movement` VALUES (12120, 1, 1, 0, 0, 0, 2);
+INSERT INTO `creature_template_movement` VALUES (17552, 0, 0, 1, 0, 0, 0);
+INSERT INTO `creature_template_movement` VALUES (18409, 1, 1, 2, 0, 0, 0);
+INSERT INTO `creature_template_movement` VALUES (20170, 1, 1, 2, 0, 0, 0);
+INSERT INTO `creature_template_movement` VALUES (17992, 0, 0, 1, 0, 0, 0);

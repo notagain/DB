@@ -607,7 +607,7 @@ INSERT INTO `game_event_seasonal_questrelation` VALUES (13937, 10);
 INSERT INTO `game_event_seasonal_questrelation` VALUES (13938, 10);
 INSERT INTO `game_event_seasonal_questrelation` VALUES (13950, 10);
 INSERT INTO `game_event_seasonal_questrelation` VALUES (13951, 10);
-INSERT INTO `game_event_seasonal_questrelation` VALUES (13952, 10);
+INSERT INTO `game_event_seasonal_questrelation` VALUES (13952, 51);
 INSERT INTO `game_event_seasonal_questrelation` VALUES (13954, 10);
 INSERT INTO `game_event_seasonal_questrelation` VALUES (13955, 10);
 INSERT INTO `game_event_seasonal_questrelation` VALUES (13956, 10);

@@ -14097,3 +14097,9 @@ INSERT INTO `conditions` VALUES (22, 1, 177491, 1, 0, 29, 0, 12120, 40, 0, 1, 0,
 INSERT INTO `conditions` VALUES (22, 2, 177491, 1, 0, 29, 0, 12120, 40, 0, 1, 0, 0, '', 'Plagueland Termite only spawns if not present');
 INSERT INTO `conditions` VALUES (17, 0, 20737, 0, 0, 30, 0, 178205, 40, 0, 1, 0, 0, '', 'Summon Karangs Banner only if not present');
 INSERT INTO `conditions` VALUES (18, 30500, 56922, 0, 0, 9, 0, 13045, 0, 0, 0, 0, 0, '', 'Required quest active for spellclick');
+INSERT INTO `conditions` VALUES (13, 1, 30952, 0, 0, 31, 0, 3, 17687, 0, 0, 0, 0, '', 'Spell 30952 targets entry 17687');
+INSERT INTO `conditions` VALUES (15, 6687, 0, 0, 0, 9, 0, 8731, 0, 0, 0, 0, 0, '', 'Show gossip option if quest \'Field Duty\' is taken');
+INSERT INTO `conditions` VALUES (22, 3, 15612, 0, 0, 29, 1, 15620, 900, 0, 1, 0, 0, '', 'SAI triggers only if Hive\'Regal Hunter-Killer is not already spawned');
+INSERT INTO `conditions` VALUES (15, 6623, 0, 0, 0, 9, 0, 8507, 0, 0, 0, 0, 0, '', 'Show gossip option if quest \'Field Duty\' is taken');
+INSERT INTO `conditions` VALUES (15, 6623, 0, 0, 0, 29, 1, 15449, 900, 0, 1, 0, 0, '', 'SAI triggers only if Hive\'Zora Abomination is not already spawned');
+INSERT INTO `conditions` VALUES (15, 6623, 0, 0, 0, 29, 1, 15440, 900, 0, 1, 0, 0, '', 'SAI triggers only if Captain Blackanvil is not already spawned');

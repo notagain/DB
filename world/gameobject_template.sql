@@ -12977,7 +12977,7 @@ INSERT INTO `gameobject_template` VALUES (185440, 7, 6997, 'Chair', '', '', '', 
 INSERT INTO `gameobject_template` VALUES (185441, 7, 6997, 'Chair', '', '', '', 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', '', 12340);
 INSERT INTO `gameobject_template` VALUES (185450, 7, 6997, 'Chair', '', '', '', 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', '', 12340);
 INSERT INTO `gameobject_template` VALUES (185449, 7, 6997, 'Chair', '', '', '', 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', '', 12340);
-INSERT INTO `gameobject_template` VALUES (182052, 10, 5811, 'Harbinger of the Second Trial', '', '', '', 1, 57, 9686, 0, 196608, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'SmartGameObjectAI', '', 0);
+INSERT INTO `gameobject_template` VALUES (182052, 10, 5811, 'Harbinger of the Second Trial', '', '', '', 1, 57, 9686, 0, 3000, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'SmartGameObjectAI', '', 0);
 INSERT INTO `gameobject_template` VALUES (184640, 1, 7207, 'Magtheridon\'s Head', '', '', '', 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', '', 12340);
 INSERT INTO `gameobject_template` VALUES (185566, 10, 429, 'Southfury Moonstone', '', '', '', 1, 57, 10994, 0, 3000, 0, 0, 0, 0, 0, 0, 41421, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', 'go_southfury_moonstone', 0);
 INSERT INTO `gameobject_template` VALUES (22877, 7, 39, 'Wooden Chair', '', '', '', 1, 1, 1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '', '', -18019);
